@@ -25,13 +25,13 @@ public class Rollit.Application : Gtk.Application {
 
     public Application () {
         Object (
-            application_id: "io.github.ellie_commons.rollit",
+            application_id: "io.github.elly_code.rollit",
             flags: ApplicationFlags.DEFAULT_FLAGS
         );
     }
 
     static construct {
-        settings = new GLib.Settings ("io.github.ellie_commons.rollit");
+        settings = new GLib.Settings ("io.github.elly_code.rollit");
     }
 
     construct {
@@ -119,7 +119,7 @@ public class Rollit.Application : Gtk.Application {
     protected override void activate () {
 
         var provider = new Gtk.CssProvider ();
-        provider.load_from_resource ("/io/github/ellie_commons/rollit/Application.css");
+        provider.load_from_resource ("/io/github/elly_code/rollit/Application.css");
         Gtk.StyleContext.add_provider_for_display (
             Gdk.Display.get_default (),
             provider,

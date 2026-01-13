@@ -2,7 +2,7 @@
 
 ## First Things First
 
-* Clone this repository by opening the terminal in a folder of your choice and typing ```git clone https://github.com/ellie-commons/rollit```
+* Clone this repository by opening the terminal in a folder of your choice and typing ```git clone https://github.com/elly-code/rollit```
 
 ## Basics
 

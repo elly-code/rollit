@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Copyright 2020-2021 Patrick Csikos <zelikos@pm.me> -->
 <component type="desktop-application">
-  <id>io.github.ellie_commons.rollit</id>
-  <launchable type="desktop-id">io.github.ellie_commons.rollit.desktop</launchable>
+  <id>io.github.elly_code.rollit</id>
+  <launchable type="desktop-id">io.github.elly_code.rollit.desktop</launchable>
   <metadata_license>CC0</metadata_license>
   <project_license>GPL-3.0+</project_license>
   <name>Roll-It</name>
@@ -26,35 +26,35 @@
   <screenshots>
     <screenshot type="default">
       <caption>The main window of Roll-It. Roll dices and check history</caption>
-      <image>https://raw.githubusercontent.com/ellie-commons/rollit/main/data/screenshots/window-light.png</image>
+      <image>https://raw.githubusercontent.com/elly-code/rollit/main/data/screenshots/window-light.png</image>
     </screenshot>
     <screenshot>
       <caption>Roll-It with dark theme enabled</caption>
-      <image>https://raw.githubusercontent.com/ellie-commons/rollit/main/data/screenshots/window-dark.png</image>
+      <image>https://raw.githubusercontent.com/elly-code/rollit/main/data/screenshots/window-dark.png</image>
     </screenshot>
   </screenshots>
     <content_rating type="oars-1.1"/>
-    <translation type="gettext" source_locale="en_GB">io.github.ellie_commons.rollit</translation>
+    <translation type="gettext" source_locale="en_GB">io.github.elly_code.rollit</translation>
     <recommends>
       <control>keyboard</control>
       <control>pointing</control>
       <control>touch</control>
     </recommends>
 
-    <developer id="io.github.ellie-commons">
+    <developer id="io.github.elly-code">
         <name>Zelikos + Stella</name>
     </developer>
-    <project_group>ellie-commons</project_group>
-    <url type="homepage">https://github.com/ellie-commons/rollit</url>
-    <url type="bugtracker">https://github.com/ellie-commons/rollit/issues</url>
-    <url type="help">https://github.com/ellie-commons/rollit/issues</url>
-    <url type="translate">https://github.com/ellie-commons/rollit/blob/main/po/README.md</url>
+    <project_group>elly-code</project_group>
+    <url type="homepage">https://github.com/elly-code/rollit</url>
+    <url type="bugtracker">https://github.com/elly-code/rollit/issues</url>
+    <url type="help">https://github.com/elly-code/rollit/issues</url>
+    <url type="translate">https://github.com/elly-code/rollit/blob/main/po/README.md</url>
     <url type="donation">https://ko-fi.com/teamcons</url>
 
     <suggests>
         <id>dev.zelikos.rollit</id>
         <id>com.github.elfenware.badger</id>
-        <id>io.github.ellie_commons.reminduck</id>
+        <id>io.github.elly_code.reminduck</id>
     </suggests>
 
     <keywords>

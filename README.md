@@ -3,11 +3,11 @@
   <img alt="An icon representing a six-sided dice, showing a three" src="data/icons/128.svg" />
   <h1>Roll-It</h1>
   <h3>Simply roll a dice</h3>
-<span align="center"> <img class="center" src="https://github.com/ellie-commons/rollit/blob/main/data/screenshots/window-light.png" alt="A screenshot of a window displaying a dice result and a history of past rolls"></span>
+<span align="center"> <img class="center" src="https://github.com/elly-code/rollit/blob/main/data/screenshots/window-light.png" alt="A screenshot of a window displaying a dice result and a history of past rolls"></span>
 </div>
 
   <a href="https://elementary.io">
-    <img src="https://ellie-commons.github.io/community-badge.svg" alt="Made for elementary OS">
+    <img src="https://elly-code.github.io/community-badge.svg" alt="Made for elementary OS">
   </a>
 
 
@@ -15,7 +15,7 @@
 
 Roll-It is designed and developed primarily for [elementary OS]. The latest stable release is available via AppCenter.
 
-[![Get it on AppCenter](https://appcenter.elementary.io/badge.svg?new)](https://appcenter.elementary.io/io.github.ellie_commons.rollit) 
+[![Get it on AppCenter](https://appcenter.elementary.io/badge.svg?new)](https://appcenter.elementary.io/io.github.elly_code.rollit) 
 
 
 It is the updated, older codebase of Chance, which once was an elementary OS, but is now on Flathub and for GNOME systems:
@@ -40,7 +40,7 @@ and run the following command:
 ### On elementary OS or with its appcenter remote installed
 
 ```bash
-flatpak-builder --force-clean --user --install-deps-from=appcenter --install builddir ./io.github.ellie_commons.rollit.yml
+flatpak-builder --force-clean --user --install-deps-from=appcenter --install builddir ./io.github.elly_code.rollit.yml
 ```
 
 ### On other systems:

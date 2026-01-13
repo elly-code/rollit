@@ -3,8 +3,8 @@ Name=Roll-It
 Type=Application
 GenericName=Dice Roller
 Comment=Simply roll a dice
-Exec=io.github.ellie_commons.rollit
-Icon=io.github.ellie_commons.rollit
+Exec=io.github.elly_code.rollit
+Icon=io.github.elly_code.rollit
 
 Categories=Game;RolePlaying;Math;GTK;
 Keywords=Die;Dice;Roll;Random;Number;Rnd;Num;

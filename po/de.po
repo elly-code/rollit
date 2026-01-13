@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "POT-Creation-Date: 2025-09-12 13:47+0200\n"
-"Project-Id-Version: io.github.ellie_commons.rollit\n"
+"Project-Id-Version: io.github.elly_code.rollit\n"
 "Report-Msgid-Bugs-To: \n"
 
 #: src/Widgets/Menu.vala:29

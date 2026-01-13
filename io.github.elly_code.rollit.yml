@@ -1,8 +1,8 @@
-id: io.github.ellie_commons.rollit
+id: io.github.elly_code.rollit
 runtime: io.elementary.Platform
 runtime-version: '8.2'
 sdk: io.elementary.Sdk
-command: io.github.ellie_commons.rollit
+command: io.github.elly_code.rollit
 
 finish-args:
   - '--share=ipc'

@@ -282,5 +282,5 @@ msgstr "Dé;Lancer;Aléatoire;Nombre;Rnd;Num;"
 #~ msgid "Patrick Csikos"
 #~ msgstr "Patrick Csikos"
 
-#~ msgid "io.github.ellie_commons.rollit"
-#~ msgstr "io.github.ellie_commons.rollit"
+#~ msgid "io.github.elly_code.rollit"
+#~ msgstr "io.github.elly_code.rollit"

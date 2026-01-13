@@ -1,4 +1,4 @@
-project('io.github.ellie_commons.rollit',
+project('io.github.elly_code.rollit',
     'vala', 'c',
     version: '3.0.5')
 
