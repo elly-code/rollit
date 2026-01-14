@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the io.github.elly_code.rollit package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: io.github.elly_code.rollit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-12 13:47+0200\n"
+"PO-Revision-Date: 2026-01-14 16:23+0100\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Language-Team: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: src/Widgets/Menu.vala:29
+msgid "d4"
+msgstr "d4"
+
+#: src/Widgets/Menu.vala:30
+msgid "d6"
+msgstr "d6"
+
+#: src/Widgets/Menu.vala:31
+msgid "d8"
+msgstr "d8"
+
+#: src/Widgets/Menu.vala:32
+msgid "d10"
+msgstr "d10"
+
+#: src/Widgets/Menu.vala:33
+msgid "d12"
+msgstr "d12"
+
+#: src/Widgets/Menu.vala:34
+msgid "d20"
+msgstr "d20"
+
+#: src/Widgets/Menu.vala:35
+msgid "d100"
+msgstr "d100"
+
+#: src/Widgets/Menu.vala:68
+msgid "Press 0 to immediately choose the custom dice"
+msgstr "Tryck på 0 för att omedelbart välja anpassad tärning"
+
+#. TRANSLATORS: %i represents a number: ex. d10 for a dice with 10 faces
+#. This will be displayed in a button with a menu to let people choose
+#: src/Widgets/Menu.vala:88 src/Widgets/Menu.vala:187
+#, c-format
+msgid "d%i"
+msgstr "d%i"
+
+#: src/Widgets/Menu.vala:91
+msgid "Dice settings"
+msgstr "Tärningsinställningar"
+
+#: src/Widgets/NumDisplay.vala:29
+msgid "Ready to Roll"
+msgstr "Redo att kasta"
+
+#.
+#. var placeholder = new Granite.Placeholder (_("Nothing to show yet!")) {
+#. icon = new ThemedIcon ("folder-recent-symbolic"),
+#. description = "Roll a dice, it will appear here",
+#. hexpand = false
+#. };
+#: src/Widgets/RollHistory.vala:38
+msgid "Empty!"
+msgstr "Tom!"
+
+#: src/Widgets/RollHistory.vala:53
+msgid "Clear"
+msgstr "Töm"
+
+#: src/Widgets/RollHistory.vala:60
+msgid "Clear history"
+msgstr "Töm historik"
+
+#. /TRANSLATORS: %s is replace by a dice number. Ex: d100.
+#: src/Widgets/Buttons/PreviousRoll.vala:31
+#, c-format
+msgid "d%s: "
+msgstr "d%s: "
+
+#: src/Widgets/Buttons/PreviousRoll.vala:48
+msgid "Copied"
+msgstr "Kopierad"
+
+#: src/Widgets/Buttons/PreviousRoll.vala:65
+msgid "Copy result to clipboard"
+msgstr "Kopiera resultatet till urklipp"
+
+#. /TRANSLATORS: %s is here replaced with a number
+#: src/Widgets/Buttons/MenuItem.vala:28
+#, c-format
+msgid "Press %s to immediately select this dice"
+msgstr "Tryck på %s för att omedelbart välja denna tärning"
+
+#: src/MainWindow.vala:57 src/MainWindow.vala:72
+msgid "Roll-It"
+msgstr "Roll-It"
+
+#: src/MainWindow.vala:82
+msgid "Roll history"
+msgstr "Kastningshistorik"
+
+#: src/MainWindow.vala:91 src/MainWindow.vala:93
+msgid "Roll"
+msgstr "Kasta"
+
+#: src/MainWindow.vala:101
+msgid "Change dice"
+msgstr "Byt tärning"
